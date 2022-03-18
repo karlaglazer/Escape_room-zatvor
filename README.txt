@@ -1,3 +1,6 @@
+Kod je napisan u programskom jeziku SWI-Prolog
+
+OPIS IGRE
 Igrač je na početku igre u ćeliji. Cilj igre je izaći iz zatvora s novcem i čistom odjećom.
 
 Kako izaći iz zatvora?
